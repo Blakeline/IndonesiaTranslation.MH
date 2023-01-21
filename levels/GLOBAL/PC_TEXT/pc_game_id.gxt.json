@@ -1,0 +1,2546 @@
+[
+    {
+        "key": "ACTION1",
+        "text": "ACTION"
+    },
+    {
+        "key": "ACTION2",
+        "text": "ACTION2"
+    },
+    {
+        "key": "APR",
+        "text": "APR"
+    },
+    {
+        "key": "AS_001",
+        "text": "Data dapat rusak jika selama penyimpanan konsol dimatikan, atau disetel ulang, atau jika Kartu Memori (8MB) (untuk PlayStation~(R)~2) atau kontroler dilepas. Tekan tombol ~triangle~ untuk melanjutkan."
+    },
+    {
+        "key": "AS_002",
+        "text": "Tidak ada Kartu Memori (8MB) (untuk PlayStation~(R)~2) yang dimasukkan ke dalam slot KARTU MEMORI 1. Penyisipan Kartu Memori (8MB) (untuk PlayStation~(R)~2) di luar titik ini bisa menyebabkan data ditimpa. Tekan tombol ~triangle~ untuk melanjutkan."
+    },
+    {
+        "key": "AS_003",
+        "text": "Menyimpan data. Jangan keluarkan Kartu Memori (8MB) (untuk PlayStation~(R)~2), controller, atau setel ulang\/mati konsol."
+    },
+    {
+        "key": "AS_004",
+        "text": "Kartu Memori (8MB) (untuk PlayStation~(R)~2) di slot KARTU MEMORI 1 telah berubah. Melanjutkan Menyimpan di Kartu Memori baru (8MB) (untuk PlayStation~(R)~2)?"
+    },
+    {
+        "key": "AS_005",
+        "text": "Data tidak dapat disimpan karena Kartu Memori (8MB) (untuk PlayStation~(R)~2) tidak dimasukkan. Permainan akan terus berlanjut tanpa menyimpan!."
+    },
+    {
+        "key": "AUDIO",
+        "text": "AUDIO"
+    },
+    {
+        "key": "AUDSET",
+        "text": "SETELAN AUDIO"
+    },
+    {
+        "key": "AUG",
+        "text": "AGU"
+    },
+    {
+        "key": "AUTSAV",
+        "text": "MENYIMPAN-OTOMATIS"
+    },
+    {
+        "key": "AXE",
+        "text": "Kapak"
+    },
+    {
+        "key": "A_CLIP",
+        "text": "Klip Peluru (30)"
+    },
+    {
+        "key": "BAC2_FE",
+        "text": "~circle~ Keluar ke Menu"
+    },
+    {
+        "key": "BACK",
+        "text": "KEMBALI"
+    },
+    {
+        "key": "BACKT",
+        "text": "Kembali tombol ~triangle~"
+    },
+    {
+        "key": "BACKWL",
+        "text": "Kembali tanpa memuat tombol ~triangle~"
+    },
+    {
+        "key": "BACKWLC",
+        "text": "Kembali tanpa memuat tombol ~cross~"
+    },
+    {
+        "key": "BAT_SPI",
+        "text": "Pemukul Berduri"
+    },
+    {
+        "key": "BLAKJAK",
+        "text": "Pentungan"
+    },
+    {
+        "key": "BOCOUNT",
+        "text": "Jumlah kematian"
+    },
+    {
+        "key": "BONFEA",
+        "text": "FITUR BONUS"
+    },
+    {
+        "key": "BONUSSC",
+        "text": "BONUS"
+    },
+    {
+        "key": "BOTTLE",
+        "text": "Botol"
+    },
+    {
+        "key": "BRICK",
+        "text": "Batu Bata"
+    },
+    {
+        "key": "BRIGHTN",
+        "text": "KECERAHAN"
+    },
+    {
+        "key": "BRINFO1",
+        "text": "AGAR MENDAPATKAN PENGALAMAN MANHUNT TERBAIK, ANDA SEBAIKNYA..."
+    },
+    {
+        "key": "BRINFO2",
+        "text": "MATIKAN LAMPU..."
+    },
+    {
+        "key": "BRINFO3",
+        "text": "TUTUP GORDEN..."
+    },
+    {
+        "key": "BRINFO4",
+        "text": "KUNCI PINTU..."
+    },
+    {
+        "key": "BRINFO5",
+        "text": "LALU BERSIAP-SIAPLAH UNTUK MEMBUNUH!"
+    },
+    {
+        "key": "BRSET1",
+        "text": "SILAKAN PERIKSA GAMBAR INI"
+    },
+    {
+        "key": "BRSET2",
+        "text": "DAN PASTIKAN BAHWA KOTAK"
+    },
+    {
+        "key": "BRSET3",
+        "text": "SEBELAH KIRI TERLIHAT JELAS."
+    },
+    {
+        "key": "BRSET4",
+        "text": "^"
+    },
+    {
+        "key": "BWSCR",
+        "text": "Kembali tanpa menyimpan ~cross~"
+    },
+    {
+        "key": "BWSTR",
+        "text": "Lanjutkan tanpa menyimpan ~triangle~"
+    },
+    {
+        "key": "CAM1",
+        "text": "KAM1"
+    },
+    {
+        "key": "CAMFX",
+        "text": "KAMERA FX"
+    },
+    {
+        "key": "CAN",
+        "text": "Kaleng"
+    },
+    {
+        "key": "CANCELT",
+        "text": "Batal tombol ~triangle~"
+    },
+    {
+        "key": "CAN_FOR",
+        "text": "Kartu Memori (8MB) (untuk PlayStation~(R)~2) di slot KARTU MEMORI 1 tidak diformat. Tekan tombol ~square~ untuk memformat Kartu Memori (8MB) (untuk PlayStation~(R)~2) atau tekan tombol ~triangle~ untuk melanjutkan tanpa dapat menyimpan."
+    },
+    {
+        "key": "CHAINSW",
+        "text": "Gergaji"
+    },
+    {
+        "key": "CHEKPNT",
+        "text": "Save Point Dicapai"
+    },
+    {
+        "key": "COASAC",
+        "text": "Konfirmasikan dan simpan tombol ~cross~"
+    },
+    {
+        "key": "COLT_C",
+        "text": "Senapan Serbu"
+    },
+    {
+        "key": "COMPLT",
+        "text": "-(SELESAI)"
+    },
+    {
+        "key": "CONALC",
+        "text": "Konfirmasikan dan muat tombol ~cross~"
+    },
+    {
+        "key": "CONFC",
+        "text": "Konfirmasi tombol ~cross~"
+    },
+    {
+        "key": "CONF_SA",
+        "text": "Menyimpan Data Game?"
+    },
+    {
+        "key": "CONOSAV",
+        "text": "Lanjutkan tanpa menyimpan tombol ~triangle~"
+    },
+    {
+        "key": "CONTC",
+        "text": "Lanjutkan tombol ~cross~"
+    },
+    {
+        "key": "CONTINU",
+        "text": "LANJUT"
+    },
+    {
+        "key": "CONTMOD",
+        "text": "SETELAN KONTROL"
+    },
+    {
+        "key": "CONTR",
+        "text": "KONTROL"
+    },
+    {
+        "key": "CONTTYP",
+        "text": "GAYA KONTROL"
+    },
+    {
+        "key": "CREATIN",
+        "text": "Membuat Direktori Game"
+    },
+    {
+        "key": "CRED1",
+        "text": "ROCKSTAR NORTH"
+    },
+    {
+        "key": "CRED10",
+        "text": "John Whyte"
+    },
+    {
+        "key": "CRED100",
+        "text": "Pengadaan Talenta Audio: Judy Henderson"
+    },
+    {
+        "key": "CRED101",
+        "text": "Pengambilan Gerakan Disutradarai oleh: Navid Khonsari"
+    },
+    {
+        "key": "CRED102",
+        "text": "Studio: Track Nine and Sound Space"
+    },
+    {
+        "key": "CRED103",
+        "text": "@Akting"
+    },
+    {
+        "key": "CRED104",
+        "text": "@Cash : Kurt Bauccio"
+    },
+    {
+        "key": "CRED105",
+        "text": "Cerberus : Jon Bernthal"
+    },
+    {
+        "key": "CRED106",
+        "text": "Ramirez : Darren Lenz"
+    },
+    {
+        "key": "CRED107",
+        "text": "Starkweather : Alan Mozes"
+    },
+    {
+        "key": "CRED108",
+        "text": "Piggsy : Alex Wouman"
+    },
+    {
+        "key": "CRED109",
+        "text": "Wartawan : Melle Powers"
+    },
+    {
+        "key": "CRED11",
+        "text": "@- Programmer -"
+    },
+    {
+        "key": "CRED110",
+        "text": "Anggota Geng : Lawrence Ballard"
+    },
+    {
+        "key": "CRED111",
+        "text": "Koordinator Aksi : Manny Siverio"
+    },
+    {
+        "key": "CRED112",
+        "text": "Aksi : Bob Colletti"
+    },
+    {
+        "key": "CRED113",
+        "text": "@- Pengisi Suara -"
+    },
+    {
+        "key": "CRED114",
+        "text": "@Hoods:"
+    },
+    {
+        "key": "CRED115",
+        "text": "Sean Lynch, John Doman, Lenny Venito, Greg Salata"
+    },
+    {
+        "key": "CRED116",
+        "text": "Peter Appel, Nestor Serrano"
+    },
+    {
+        "key": "CRED117",
+        "text": "@Innocents:"
+    },
+    {
+        "key": "CRED118",
+        "text": "Greg Sims, Adam Seitz, Geoffrey Cantor, Antone Pagan"
+    },
+    {
+        "key": "CRED119",
+        "text": "James Urbaniak, David Coburn"
+    },
+    {
+        "key": "CRED12",
+        "text": "John Gurney, Derek Ward, Keith McLeman, Steve Gallacher"
+    },
+    {
+        "key": "CRED120",
+        "text": "@War Dogs:"
+    },
+    {
+        "key": "CRED121",
+        "text": "Kendall Clark aka Loose Cannon, Ricky Aiello"
+    },
+    {
+        "key": "CRED122",
+        "text": "Julian Rebolledo aka Julian Dean, Chris McKinney"
+    },
+    {
+        "key": "CRED123",
+        "text": "Erik Bergman, PJ Sosko"
+    },
+    {
+        "key": "CRED124",
+        "text": "@Skinz:"
+    },
+    {
+        "key": "CRED125",
+        "text": "Burke Moses, Todd Cummings, Evan Seinfeld, Andrew Totolos"
+    },
+    {
+        "key": "CRED126",
+        "text": "Lloyd Floyd, Jeff Gurner"
+    },
+    {
+        "key": "CRED127",
+        "text": "@Smilies:"
+    },
+    {
+        "key": "CRED128",
+        "text": "Robert Stanton, Patrick McCartney, Rob Sedgwick"
+    },
+    {
+        "key": "CRED129",
+        "text": "Glenn Fleshler, David Pittu, Tony Devito, Jeremy Schwartz"
+    },
+    {
+        "key": "CRED13",
+        "text": "Shaun McKillop, Alexander Illes, Alexander Roger, Greg Smith"
+    },
+    {
+        "key": "CRED130",
+        "text": "@Cerberus:"
+    },
+    {
+        "key": "CRED131",
+        "text": "Brian Maillard, Julian Fletcher, Michael Mulheren"
+    },
+    {
+        "key": "CRED132",
+        "text": "@Polisi:"
+    },
+    {
+        "key": "CRED133",
+        "text": "John Henry Cox, Dennis Ostermaier, Gary Littman"
+    },
+    {
+        "key": "CRED134",
+        "text": "Hunter Platin"
+    },
+    {
+        "key": "CRED135",
+        "text": "@SWAT's:"
+    },
+    {
+        "key": "CRED136",
+        "text": "Richard Mover, Matt Walton, Rodd Houston"
+    },
+    {
+        "key": "CRED137",
+        "text": "@Ramirez:"
+    },
+    {
+        "key": "CRED138",
+        "text": "Barry Carl, Chris McKinney"
+    },
+    {
+        "key": "CRED139",
+        "text": "@Direktur:"
+    },
+    {
+        "key": "CRED14",
+        "text": "@- Pemimpin Seniman -"
+    },
+    {
+        "key": "CRED140",
+        "text": "Brian Cox"
+    },
+    {
+        "key": "CRED141",
+        "text": "@Cash:"
+    },
+    {
+        "key": "CRED142",
+        "text": "Stephen Wilfong"
+    },
+    {
+        "key": "CRED143",
+        "text": "@Journalist:"
+    },
+    {
+        "key": "CRED144",
+        "text": "Kate Miller"
+    },
+    {
+        "key": "CRED145",
+        "text": "@Piggsy:"
+    },
+    {
+        "key": "CRED146",
+        "text": "Hunter Platin"
+    },
+    {
+        "key": "CRED147",
+        "text": "@Pengisi Suara Penjara:"
+    },
+    {
+        "key": "CRED148",
+        "text": "Brad Abelle"
+    },
+    {
+        "key": "CRED149",
+        "text": "@Petugas Operator:"
+    },
+    {
+        "key": "CRED15",
+        "text": "Andy Hay"
+    },
+    {
+        "key": "CRED150",
+        "text": "Noelle Sadler"
+    },
+    {
+        "key": "CRED151",
+        "text": "@- Akting suara tambahan -"
+    },
+    {
+        "key": "CRED152",
+        "text": "Kevin Wong, Adam Cochrane, Kim Gurney, Paul Kurowski"
+    },
+    {
+        "key": "CRED153",
+        "text": "@- Pemeriksaan Tambahan -"
+    },
+    {
+        "key": "CRED154",
+        "text": "Alex Bazlinton, Paul Green, Brenda Carey,"
+    },
+    {
+        "key": "CRED155",
+        "text": "Stephen Anderson, Pedro Correia"
+    },
+    {
+        "key": "CRED156",
+        "text": "@- Terima Kasih -"
+    },
+    {
+        "key": "CRED157",
+        "text": "Alan Mui, Chris Hunter, Chris Mitchell, Iain Berekis"
+    },
+    {
+        "key": "CRED158",
+        "text": "Ben Greenall, Bryan Bradley, Julia Davies, Duncan Shields"
+    },
+    {
+        "key": "CRED159",
+        "text": "Eric Joseph, Andy Rimroth, Jason Page, Kris Larson"
+    },
+    {
+        "key": "CRED16",
+        "text": "@- Desain Karakter -"
+    },
+    {
+        "key": "CRED160",
+        "text": "Alan McGregor"
+    },
+    {
+        "key": "CRED161",
+        "text": "@- Terima Kasih Khusus -"
+    },
+    {
+        "key": "CRED162",
+        "text": "Valerio Faggioni, Andrew Dowell, Morag Reilly"
+    },
+    {
+        "key": "CRED163",
+        "text": "Aaron, Louise and Kieran Hay, Phil Gurney, Sarah Oram"
+    },
+    {
+        "key": "CRED164",
+        "text": "Siun Clohosey, Alex Wright, Richard Ralfe, Layla Gedik"
+    },
+    {
+        "key": "CRED165",
+        "text": "Jennifer Arthur, Iain Fugue, Jack Hunter, The Pond"
+    },
+    {
+        "key": "CRED166",
+        "text": "<END>"
+    },
+    {
+        "key": "CRED17",
+        "text": "Alan Davidson"
+    },
+    {
+        "key": "CRED18",
+        "text": "@- Pemimpin Seniman Lingkungan -"
+    },
+    {
+        "key": "CRED19",
+        "text": "Michael Pirso"
+    },
+    {
+        "key": "CRED2",
+        "text": "@- Produser -"
+    },
+    {
+        "key": "CRED20",
+        "text": "@- Seniman -"
+    },
+    {
+        "key": "CRED21",
+        "text": "Alan Burns, Campbell-John Dick, Gillian Bertram, Simon Little"
+    },
+    {
+        "key": "CRED22",
+        "text": "@- Pemimpin Animator -"
+    },
+    {
+        "key": "CRED23",
+        "text": "Mark Tennant"
+    },
+    {
+        "key": "CRED24",
+        "text": "@- Animator -"
+    },
+    {
+        "key": "CRED25",
+        "text": "Terry Kenny, Ray O'Dwyer, Gus Braid"
+    },
+    {
+        "key": "CRED26",
+        "text": "@- Desain Audio -"
+    },
+    {
+        "key": "CRED27",
+        "text": "Allan Walker"
+    },
+    {
+        "key": "CRED28",
+        "text": "@- Musik -"
+    },
+    {
+        "key": "CRED29",
+        "text": "Craig Conner"
+    },
+    {
+        "key": "CRED3",
+        "text": "Andy Hay"
+    },
+    {
+        "key": "CRED30",
+        "text": "@- Teknik Dialog -"
+    },
+    {
+        "key": "CRED31",
+        "text": "Will Morton"
+    },
+    {
+        "key": "CRED32",
+        "text": "@- Pemrograman Audio -"
+    },
+    {
+        "key": "CRED33",
+        "text": "Colin Entwistle"
+    },
+    {
+        "key": "CRED34",
+        "text": "@- Direktur Pengembangan -"
+    },
+    {
+        "key": "CRED35",
+        "text": "Leslie Benzies"
+    },
+    {
+        "key": "CRED36",
+        "text": "@- Direktur Seni -"
+    },
+    {
+        "key": "CRED37",
+        "text": "Aaron Garbut"
+    },
+    {
+        "key": "CRED38",
+        "text": "@- Direktur Teknis -"
+    },
+    {
+        "key": "CRED39",
+        "text": "Obbe Vermeij, Adam Fowler"
+    },
+    {
+        "key": "CRED4",
+        "text": "@- Pemimpin Desain Level -"
+    },
+    {
+        "key": "CRED40",
+        "text": "@- Dialog Pemburu -"
+    },
+    {
+        "key": "CRED41",
+        "text": "James Worrall, Christian Cantamessa"
+    },
+    {
+        "key": "CRED42",
+        "text": "@- Animasi Sinematik -"
+    },
+    {
+        "key": "CRED43",
+        "text": "Mondo Ghulam, Iwan Scheer, Lee Montgomery"
+    },
+    {
+        "key": "CRED44",
+        "text": "@- Desain grafis -"
+    },
+    {
+        "key": "CRED45",
+        "text": "Stuart Petrie"
+    },
+    {
+        "key": "CRED46",
+        "text": "@- Cerita -"
+    },
+    {
+        "key": "CRED47",
+        "text": "Alan Davidson, Christian Cantamessa"
+    },
+    {
+        "key": "CRED48",
+        "text": "@- Manajer Tes -"
+    },
+    {
+        "key": "CRED49",
+        "text": "Craig Arbuthnott"
+    },
+    {
+        "key": "CRED5",
+        "text": "Christian Cantamessa"
+    },
+    {
+        "key": "CRED50",
+        "text": "@- Pemimpin Analis -"
+    },
+    {
+        "key": "CRED51",
+        "text": "David Murdoch, Dave Watson, Neil Corbett"
+    },
+    {
+        "key": "CRED52",
+        "text": "@- Tester -"
+    },
+    {
+        "key": "CRED53",
+        "text": "Neil Meikle, James Allan, David Beddoes, George Williamson"
+    },
+    {
+        "key": "CRED54",
+        "text": "Scott Cameron, Thomas Whittaker, Neil Walker, Chris Wood"
+    },
+    {
+        "key": "CRED55",
+        "text": "@- Seni Tambahan -"
+    },
+    {
+        "key": "CRED56",
+        "text": "Tony Porter, Craig Moore, Jolyon Orme, Ian McQue"
+    },
+    {
+        "key": "CRED57",
+        "text": "@- Bantuan teknis -"
+    },
+    {
+        "key": "CRED58",
+        "text": "Lorraine Roy, Christine Chalmers"
+    },
+    {
+        "key": "CRED59",
+        "text": "@- Direktur Studio -"
+    },
+    {
+        "key": "CRED6",
+        "text": "@- Desain level -"
+    },
+    {
+        "key": "CRED60",
+        "text": "Andrew Semple"
+    },
+    {
+        "key": "CRED61",
+        "text": "@- Bantuan Kantor -"
+    },
+    {
+        "key": "CRED62",
+        "text": "Kim Gurney, Charlene McGuire"
+    },
+    {
+        "key": "CRED63",
+        "text": "@@ROCKSTAR NYC"
+    },
+    {
+        "key": "CRED64",
+        "text": "@- Produser Eksekutif -"
+    },
+    {
+        "key": "CRED65",
+        "text": "Sam Houser"
+    },
+    {
+        "key": "CRED66",
+        "text": "@- Wakil Ketua Bidang Kreatif -"
+    },
+    {
+        "key": "CRED67",
+        "text": "Dan Houser"
+    },
+    {
+        "key": "CRED68",
+        "text": "@- Wakil Ketua Pengembangan -"
+    },
+    {
+        "key": "CRED69",
+        "text": "Jamie King"
+    },
+    {
+        "key": "CRED7",
+        "text": "Paul Davis, Steve Taylor, William Mills"
+    },
+    {
+        "key": "CRED70",
+        "text": "@- Ketua Teknologi -"
+    },
+    {
+        "key": "CRED71",
+        "text": "Gary J. Foreman"
+    },
+    {
+        "key": "CRED72",
+        "text": "@- Direktur Jaminan Kualitas -"
+    },
+    {
+        "key": "CRED73",
+        "text": "Jeff Rosa"
+    },
+    {
+        "key": "CRED74",
+        "text": "@- Manajer Teknis -"
+    },
+    {
+        "key": "CRED75",
+        "text": "Sandeep Bisla"
+    },
+    {
+        "key": "CRED76",
+        "text": "@- Pemimpin Analis -"
+    },
+    {
+        "key": "CRED77",
+        "text": "Lee Cummings"
+    },
+    {
+        "key": "CRED78",
+        "text": "@- Tim Tes Rockstar -"
+    },
+    {
+        "key": "CRED79",
+        "text": "Lance Williams, Brian Planer, Rich Huie, Chris Choi"
+    },
+    {
+        "key": "CRED8",
+        "text": "Simon Lashley, John Haime"
+    },
+    {
+        "key": "CRED80",
+        "text": "Scott Peterman, Christopher Plummer, Ethan Abeles"
+    },
+    {
+        "key": "CRED81",
+        "text": "William Rompf, Elizabeth Satterwhite"
+    },
+    {
+        "key": "CRED82",
+        "text": "Devin Smither, Tammy Beatty"
+    },
+    {
+        "key": "CRED83",
+        "text": "@- Penelitian dan Analisis -"
+    },
+    {
+        "key": "CRED84",
+        "text": "Joe Howell"
+    },
+    {
+        "key": "CRED85",
+        "text": "@- Tim Produksi -"
+    },
+    {
+        "key": "CRED86",
+        "text": "Terry Donovan, Alex Horton, Mark Garone, Jenefer Gross"
+    },
+    {
+        "key": "CRED87",
+        "text": "Jeff Castaneda, Jennifer Kolbe, Adam Tedman"
+    },
+    {
+        "key": "CRED88",
+        "text": "Devin Winterbottom, Brian Wood, Brian Noto, David Kim"
+    },
+    {
+        "key": "CRED89",
+        "text": "Lindsey Caldwell, Hosi Simon, Daniel Einzig, Jerry Luna"
+    },
+    {
+        "key": "CRED9",
+        "text": "@- Pemimpin Programmer -"
+    },
+    {
+        "key": "CRED90",
+        "text": "Stuart Petri, Futaba Hayashi, Jeff Williams, Richard Kruger"
+    },
+    {
+        "key": "CRED91",
+        "text": "Jake King, Jordan Chew, Devin Bennett, Chris Carro"
+    },
+    {
+        "key": "CRED92",
+        "text": "Rob Fleischer, Bill Linn, Noelle Sadler, John Zurhellen"
+    },
+    {
+        "key": "CRED93",
+        "text": "Kerry Shaw, David Thomson, Susan Lewis"
+    },
+    {
+        "key": "CRED94",
+        "text": "@- Animasi Intro Game Rockstar -"
+    },
+    {
+        "key": "CRED95",
+        "text": "- Judul Manhunt -"
+    },
+    {
+        "key": "CRED96",
+        "text": "Maryam Parwana"
+    },
+    {
+        "key": "CRED97",
+        "text": "@- Sinematik -"
+    },
+    {
+        "key": "CRED98",
+        "text": "Penulisan oleh: James Worrall, Christian Cantamessa"
+    },
+    {
+        "key": "CRED99",
+        "text": "Audio Disutradarai oleh: Renaud Sebbane"
+    },
+    {
+        "key": "CRE_DIR",
+        "text": "~circle~ Buat Direktori ~cross~ Lanjutkan tanpa menyimpan"
+    },
+    {
+        "key": "CRMCANC",
+        "text": "BATAL"
+    },
+    {
+        "key": "CRMOK",
+        "text": "OK"
+    },
+    {
+        "key": "CROWBAR",
+        "text": "Linggis"
+    },
+    {
+        "key": "CRO_2_C",
+        "text": "Tekan ~cross~ untuk melanjutkan"
+    },
+    {
+        "key": "CRPT_D",
+        "text": "DATA RUSAK"
+    },
+    {
+        "key": "CTYPE1",
+        "text": "MODE A"
+    },
+    {
+        "key": "CTYPE2",
+        "text": "MODE B"
+    },
+    {
+        "key": "CTYPE3",
+        "text": "MODE C"
+    },
+    {
+        "key": "C_FULEQ",
+        "text": "Lengkap"
+    },
+    {
+        "key": "C_GOD",
+        "text": "Kekebalan"
+    },
+    {
+        "key": "C_HELI",
+        "text": "Pemburu helium"
+    },
+    {
+        "key": "C_INVIS",
+        "text": "Tembus Pandang"
+    },
+    {
+        "key": "C_MONKE",
+        "text": "Karakter monyet"
+    },
+    {
+        "key": "C_PIGGS",
+        "text": "Karakter Piggsy"
+    },
+    {
+        "key": "C_RABBI",
+        "text": "Karakter kelinci"
+    },
+    {
+        "key": "C_REGEN",
+        "text": "Regenerasi"
+    },
+    {
+        "key": "C_RUN",
+        "text": "Pelari"
+    },
+    {
+        "key": "C_SILEN",
+        "text": "Keheningan"
+    },
+    {
+        "key": "C_SUPUN",
+        "text": "Pukulan super"
+    },
+    {
+        "key": "DEC",
+        "text": "DES"
+    },
+    {
+        "key": "DEFAULT",
+        "text": "PULIH SETELAN DEFAULT"
+    },
+    {
+        "key": "DEFQUE",
+        "text": "ARE YOU SURE YOU WANT TO RESTORE ALL SETTINGS TO THE DEFAULT?"
+    },
+    {
+        "key": "DEFSET",
+        "text": "PULIH SETELAN DEFAULT"
+    },
+    {
+        "key": "DETGAME",
+        "text": "KUALITAS GRAFIS"
+    },
+    {
+        "key": "DETSHAD",
+        "text": "KUALITAS BAYANGAN"
+    },
+    {
+        "key": "DIFF",
+        "text": "KESULITAN"
+    },
+    {
+        "key": "DIRVOL",
+        "text": "VOLUME DIREKTUR"
+    },
+    {
+        "key": "DIR_SUC",
+        "text": "Direktori Berhasil Dibuat"
+    },
+    {
+        "key": "DOLL_1",
+        "text": "boneka_1"
+    },
+    {
+        "key": "DOLL_2",
+        "text": "Boneka 2"
+    },
+    {
+        "key": "DOLL_3",
+        "text": "Boneka 3"
+    },
+    {
+        "key": "DUALSH1",
+        "text": "Masukkan pengontrol analog DUALSHOCK~(R)~ atau pengontrol analog DUALSHOCK~(R)~2 di port pengontrol 1 untuk melanjutkan."
+    },
+    {
+        "key": "DUALSH2",
+        "text": "Tidak ada pengontrol yang didukung yang dimasukkan ke dalam port pengontrol 1. Masukkan pengontrol analog DUALSHOCK~(R)~ atau pengontrol analog DUALSHOCK~(R)~2 di port pengontrol 1 untuk melanjutkan."
+    },
+    {
+        "key": "DVTAPE",
+        "text": "Rekaman Video"
+    },
+    {
+        "key": "D_EAGLE",
+        "text": "Desert Eagle"
+    },
+    {
+        "key": "EASY",
+        "text": "BAYI"
+    },
+    {
+        "key": "EASYI",
+        "text": "Level kesulitan standar"
+    },
+    {
+        "key": "EMPTY",
+        "text": "KOSONG"
+    },
+    {
+        "key": "ENG",
+        "text": "INGGRIS"
+    },
+    {
+        "key": "ERR_SAV",
+        "text": "Kartu Memori (8MB) (untuk PlayStation ~(R)~ 2) Kesalahan Saat Menyimpan"
+    },
+    {
+        "key": "ESP",
+        "text": "SPANYOL"
+    },
+    {
+        "key": "FEB",
+        "text": "FEB"
+    },
+    {
+        "key": "FINAL",
+        "text": "Nilai Akhir"
+    },
+    {
+        "key": "FINLSCR",
+        "text": "NILAI AKHIR"
+    },
+    {
+        "key": "FISTS",
+        "text": "Tangan Kosong"
+    },
+    {
+        "key": "FMT_FAI",
+        "text": "Format gagal! Periksa Kartu Memori (8MB) (untuk PlayStation~(R)~2) di slot KARTU MEMORI 1 dan coba lagi. Tekan tombol ~cross~ untuk melanjutkan."
+    },
+    {
+        "key": "FORMATI",
+        "text": "Memformat Kartu Memori (8MB) (untuk PlayStation~(R)~2) di Slot KARTU MEMORI 1. Jangan lepaskan Kartu Memori (8MB) (untuk PlayStation~(R)~2) atau controller, atau setel ulang\/mematikan konsol."
+    },
+    {
+        "key": "FRA",
+        "text": "PRANCIS"
+    },
+    {
+        "key": "GAMCOMP",
+        "text": "GAME SELESAI"
+    },
+    {
+        "key": "GASTANK",
+        "text": "Tangki Bensin"
+    },
+    {
+        "key": "GER",
+        "text": "JERMAN"
+    },
+    {
+        "key": "GFC_SUC",
+        "text": "File Game Berhasil Dibuat."
+    },
+    {
+        "key": "GLOCK",
+        "text": "Glock"
+    },
+    {
+        "key": "G_SHARD",
+        "text": "Pecahan Kaca"
+    },
+    {
+        "key": "HAMMER",
+        "text": "Palu"
+    },
+    {
+        "key": "HANDCAM",
+        "text": "Kamera Video"
+    },
+    {
+        "key": "HB_BUL",
+        "text": "Peluru Pistol (12)"
+    },
+    {
+        "key": "HEAD",
+        "text": "Potongan Kepala"
+    },
+    {
+        "key": "HEADPST",
+        "text": "HEADPHONE"
+    },
+    {
+        "key": "HEADSET",
+        "text": "HEADSET"
+    },
+    {
+        "key": "HSDEF",
+        "text": "^^|^^"
+    },
+    {
+        "key": "HSETDET",
+        "text": "Headset terdeteksi. Headset memungkinkan Anda untuk menghasilkan suara di dalam game menggunakan suara Anda. Reaksi para pemburu akan bervariasi sesuai dengan seberapa keras Anda berbicara. Volume mikrofon dan lubang suara dapat disesuaikan di halaman SETELAN di bagian depan. Tekan sembarang tombol untuk melanjutkan."
+    },
+    {
+        "key": "HUN_EXE",
+        "text": "Pemburu Dieksekusi"
+    },
+    {
+        "key": "HUN_KIL",
+        "text": "Hunters Killed"
+    },
+    {
+        "key": "IBACK",
+        "text": "Kembali"
+    },
+    {
+        "key": "ICANCEL",
+        "text": "Batal"
+    },
+    {
+        "key": "ICE_PIK",
+        "text": "Ice Pick"
+    },
+    {
+        "key": "INPRO",
+        "text": "-(DALAM PROSES)"
+    },
+    {
+        "key": "INPROG",
+        "text": "DALAM PROSES"
+    },
+    {
+        "key": "INV1",
+        "text": "ITEM INVENTORI 1"
+    },
+    {
+        "key": "INV2",
+        "text": "ITEM INVENTORI 2"
+    },
+    {
+        "key": "INV3",
+        "text": "ITEM INVENTORI 3"
+    },
+    {
+        "key": "INV4",
+        "text": "ITEM INVENTORI 4"
+    },
+    {
+        "key": "INVDN",
+        "text": "INVENTORI BAWAH"
+    },
+    {
+        "key": "INVERTY",
+        "text": "BALIKAN Y"
+    },
+    {
+        "key": "INVSWAP",
+        "text": "INVENTORI TUKAR"
+    },
+    {
+        "key": "INVUP",
+        "text": "INVENTORI ATAS"
+    },
+    {
+        "key": "IN_SPAC",
+        "text": "Hard Drive Anda tidak memiliki ruang kosong yang cukup untuk menyimpan game. Tekan sembarang tombol untuk melanjutkan tanpa menyimpan."
+    },
+    {
+        "key": "IOK",
+        "text": "OK"
+    },
+    {
+        "key": "ITA",
+        "text": "ITALIA"
+    },
+    {
+        "key": "JAN",
+        "text": "JAN"
+    },
+    {
+        "key": "JUL",
+        "text": "JUL"
+    },
+    {
+        "key": "JUN",
+        "text": "JUN"
+    },
+    {
+        "key": "KEY",
+        "text": "Kunci"
+    },
+    {
+        "key": "KEY0",
+        "text": "0"
+    },
+    {
+        "key": "KEY1",
+        "text": "1"
+    },
+    {
+        "key": "KEY2",
+        "text": "2"
+    },
+    {
+        "key": "KEY3",
+        "text": "3"
+    },
+    {
+        "key": "KEY4",
+        "text": "4"
+    },
+    {
+        "key": "KEY5",
+        "text": "5"
+    },
+    {
+        "key": "KEY6",
+        "text": "6"
+    },
+    {
+        "key": "KEY7",
+        "text": "7"
+    },
+    {
+        "key": "KEY8",
+        "text": "8"
+    },
+    {
+        "key": "KEY9",
+        "text": "9"
+    },
+    {
+        "key": "KEYA",
+        "text": "A"
+    },
+    {
+        "key": "KEYB",
+        "text": "B"
+    },
+    {
+        "key": "KEYBS",
+        "text": "BACKSPACE"
+    },
+    {
+        "key": "KEYBSLA",
+        "text": "\\"
+    },
+    {
+        "key": "KEYC",
+        "text": "C"
+    },
+    {
+        "key": "KEYCAPS",
+        "text": "CAPS LOCK"
+    },
+    {
+        "key": "KEYCOMM",
+        "text": ","
+    },
+    {
+        "key": "KEYD",
+        "text": "D"
+    },
+    {
+        "key": "KEYDEL",
+        "text": "DELETE"
+    },
+    {
+        "key": "KEYDOWN",
+        "text": "DOWN"
+    },
+    {
+        "key": "KEYE",
+        "text": "E"
+    },
+    {
+        "key": "KEYEND",
+        "text": "END"
+    },
+    {
+        "key": "KEYENT",
+        "text": "ENTER"
+    },
+    {
+        "key": "KEYEQU",
+        "text": "="
+    },
+    {
+        "key": "KEYESC",
+        "text": "ESC"
+    },
+    {
+        "key": "KEYF",
+        "text": "F"
+    },
+    {
+        "key": "KEYF1",
+        "text": "F1"
+    },
+    {
+        "key": "KEYF10",
+        "text": "F10"
+    },
+    {
+        "key": "KEYF11",
+        "text": "F11"
+    },
+    {
+        "key": "KEYF12",
+        "text": "F12"
+    },
+    {
+        "key": "KEYF2",
+        "text": "F2"
+    },
+    {
+        "key": "KEYF3",
+        "text": "F3"
+    },
+    {
+        "key": "KEYF4",
+        "text": "F4"
+    },
+    {
+        "key": "KEYF5",
+        "text": "F5"
+    },
+    {
+        "key": "KEYF6",
+        "text": "F6"
+    },
+    {
+        "key": "KEYF7",
+        "text": "F7"
+    },
+    {
+        "key": "KEYF8",
+        "text": "F8"
+    },
+    {
+        "key": "KEYF9",
+        "text": "F9"
+    },
+    {
+        "key": "KEYFSLA",
+        "text": "\/"
+    },
+    {
+        "key": "KEYFSTO",
+        "text": "."
+    },
+    {
+        "key": "KEYG",
+        "text": "G"
+    },
+    {
+        "key": "KEYH",
+        "text": "H"
+    },
+    {
+        "key": "KEYHASH",
+        "text": "#"
+    },
+    {
+        "key": "KEYHOME",
+        "text": "HOME"
+    },
+    {
+        "key": "KEYHYP1",
+        "text": "`"
+    },
+    {
+        "key": "KEYHYP2",
+        "text": "'"
+    },
+    {
+        "key": "KEYI",
+        "text": "I"
+    },
+    {
+        "key": "KEYINS",
+        "text": "INSERT"
+    },
+    {
+        "key": "KEYJ",
+        "text": "J"
+    },
+    {
+        "key": "KEYK",
+        "text": "K"
+    },
+    {
+        "key": "KEYL",
+        "text": "L"
+    },
+    {
+        "key": "KEYLALT",
+        "text": "LEFT ALT"
+    },
+    {
+        "key": "KEYLBR",
+        "text": "LEFT BRACKET"
+    },
+    {
+        "key": "KEYLCTR",
+        "text": "LEFT CTRL"
+    },
+    {
+        "key": "KEYLEFT",
+        "text": "LEFT"
+    },
+    {
+        "key": "KEYLSH",
+        "text": "LEFT SHIFT"
+    },
+    {
+        "key": "KEYLWIN",
+        "text": "LEFT WIN"
+    },
+    {
+        "key": "KEYM",
+        "text": "M"
+    },
+    {
+        "key": "KEYMINU",
+        "text": "-"
+    },
+    {
+        "key": "KEYN",
+        "text": "N"
+    },
+    {
+        "key": "KEYNLOC",
+        "text": "NUM LOCK"
+    },
+    {
+        "key": "KEYO",
+        "text": "O"
+    },
+    {
+        "key": "KEYP",
+        "text": "P"
+    },
+    {
+        "key": "KEYPAD5",
+        "text": "NUM 5"
+    },
+    {
+        "key": "KEYPDEL",
+        "text": "NUM DELETE"
+    },
+    {
+        "key": "KEYPDIV",
+        "text": "NUM \/"
+    },
+    {
+        "key": "KEYPDOW",
+        "text": "NUM DOWN"
+    },
+    {
+        "key": "KEYPEND",
+        "text": "NUM END"
+    },
+    {
+        "key": "KEYPENT",
+        "text": "NUM ENTER"
+    },
+    {
+        "key": "KEYPGDN",
+        "text": "PAGE DOWN"
+    },
+    {
+        "key": "KEYPGUP",
+        "text": "PAGE UP"
+    },
+    {
+        "key": "KEYPHOM",
+        "text": "NUM HOME"
+    },
+    {
+        "key": "KEYPINS",
+        "text": "NUM INSERT"
+    },
+    {
+        "key": "KEYPLEF",
+        "text": "NUM LEFT"
+    },
+    {
+        "key": "KEYPMIN",
+        "text": "NUM -"
+    },
+    {
+        "key": "KEYPPGD",
+        "text": "NUM PAGE DOWN"
+    },
+    {
+        "key": "KEYPPGU",
+        "text": "NUM PAGE UP"
+    },
+    {
+        "key": "KEYPPLU",
+        "text": "NUM +"
+    },
+    {
+        "key": "KEYPRIG",
+        "text": "NUM RIGHT"
+    },
+    {
+        "key": "KEYPTIM",
+        "text": "NUM *"
+    },
+    {
+        "key": "KEYPUP",
+        "text": "NUM UP"
+    },
+    {
+        "key": "KEYQ",
+        "text": "Q"
+    },
+    {
+        "key": "KEYR",
+        "text": "R"
+    },
+    {
+        "key": "KEYRALT",
+        "text": "RIGHT ALT"
+    },
+    {
+        "key": "KEYRBR",
+        "text": "RIGHT BRACKET"
+    },
+    {
+        "key": "KEYRCLI",
+        "text": "RIGHT CLICK"
+    },
+    {
+        "key": "KEYRCTR",
+        "text": "RIGHT CTRL"
+    },
+    {
+        "key": "KEYRIGH",
+        "text": "RIGHT"
+    },
+    {
+        "key": "KEYRSH",
+        "text": "RIGHT SHIFT"
+    },
+    {
+        "key": "KEYRWIN",
+        "text": "RIGHT WIN"
+    },
+    {
+        "key": "KEYS",
+        "text": "S"
+    },
+    {
+        "key": "KEYSEMI",
+        "text": ";"
+    },
+    {
+        "key": "KEYSEP",
+        "text": "OR"
+    },
+    {
+        "key": "KEYSH",
+        "text": "SHIFT"
+    },
+    {
+        "key": "KEYSPC",
+        "text": "SPACE"
+    },
+    {
+        "key": "KEYT",
+        "text": "T"
+    },
+    {
+        "key": "KEYTAB",
+        "text": "TAB"
+    },
+    {
+        "key": "KEYU",
+        "text": "U"
+    },
+    {
+        "key": "KEYUNDF",
+        "text": "- ? -"
+    },
+    {
+        "key": "KEYUP",
+        "text": "UP"
+    },
+    {
+        "key": "KEYV",
+        "text": "V"
+    },
+    {
+        "key": "KEYW",
+        "text": "W"
+    },
+    {
+        "key": "KEYX",
+        "text": "X"
+    },
+    {
+        "key": "KEYY",
+        "text": "Y"
+    },
+    {
+        "key": "KEYZ",
+        "text": "Z"
+    },
+    {
+        "key": "KNIFE",
+        "text": "Pisau"
+    },
+    {
+        "key": "LANGUA",
+        "text": "BAHASA"
+    },
+    {
+        "key": "LEVEL_C",
+        "text": "Scene selesai!"
+    },
+    {
+        "key": "LEVEL_F",
+        "text": "Scene Failed!"
+    },
+    {
+        "key": "LEVLD1",
+        "text": "LEVEL MUAT #1"
+    },
+    {
+        "key": "LEVLD2",
+        "text": "LEVEL MUAT #2"
+    },
+    {
+        "key": "LEVLD3",
+        "text": "LEVEL MUAT #3"
+    },
+    {
+        "key": "LEVLD4",
+        "text": "LEVEL MUAT #4"
+    },
+    {
+        "key": "LEVLD5",
+        "text": "LEVEL MUAT #5"
+    },
+    {
+        "key": "LEVLD6",
+        "text": "LEVEL MUAT #6"
+    },
+    {
+        "key": "LEVLD7",
+        "text": "LEVEL MUAT #7"
+    },
+    {
+        "key": "LEVLD8",
+        "text": "LEVEL MUAT #8"
+    },
+    {
+        "key": "LEVSAV1",
+        "text": "LEVEL SIMPAN #1"
+    },
+    {
+        "key": "LEVSAV2",
+        "text": "LEVEL SIMPAN #2"
+    },
+    {
+        "key": "LEVSAV3",
+        "text": "LEVEL SIMPAN #3"
+    },
+    {
+        "key": "LEVSAV4",
+        "text": "LEVEL SIMPAN #4"
+    },
+    {
+        "key": "LEVSAV5",
+        "text": "LEVEL SIMPAN #5"
+    },
+    {
+        "key": "LEVSAV6",
+        "text": "LEVEL SIMPAN #6"
+    },
+    {
+        "key": "LEVSAV7",
+        "text": "LEVEL SIMPAN #7"
+    },
+    {
+        "key": "LEVSAV8",
+        "text": "LEVEL SIMPAN #8"
+    },
+    {
+        "key": "LOADG",
+        "text": "MUAT GAME"
+    },
+    {
+        "key": "LOADING",
+        "text": "Memuat Manhunt."
+    },
+    {
+        "key": "LOAD_FA",
+        "text": "Tidak dapat memuat data Manhunt. Data mungkin tidak dapat digunakan. Tekan sembarang tombol untuk melanjutkan."
+    },
+    {
+        "key": "LOAD_SU",
+        "text": "Game Berhasil Disimpan"
+    },
+    {
+        "key": "LOOKB",
+        "text": "LIHAT BELAKANG"
+    },
+    {
+        "key": "LRS",
+        "text": "~left~ ~right~ Geser"
+    },
+    {
+        "key": "LRSETB",
+        "text": "~left~ ~right~ Atur kecerahan"
+    },
+    {
+        "key": "LRUDS",
+        "text": "~left~ ~right~ ~up~ ~down~ Pilih"
+    },
+    {
+        "key": "LSETB",
+        "text": "~left~ Atur kecerahan"
+    },
+    {
+        "key": "LVL_1",
+        "text": "LAHIR KEMBALI"
+    },
+    {
+        "key": "LVL_10",
+        "text": "KERJA LEMBUR"
+    },
+    {
+        "key": "LVL_10A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_11",
+        "text": "MULUT KEGILAAN"
+    },
+    {
+        "key": "LVL_11A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_12",
+        "text": "PENJARA SINGKAT"
+    },
+    {
+        "key": "LVL_12A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_13",
+        "text": "BUNUH KELINCI"
+    },
+    {
+        "key": "LVL_13A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_14",
+        "text": "DIBAGI MEREKA JATUH"
+    },
+    {
+        "key": "LVL_14A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_15",
+        "text": "LIPUTAN MEDIA"
+    },
+    {
+        "key": "LVL_15A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_16",
+        "text": "SISI REL YANG"
+    },
+    {
+        "key": "LVL_16A",
+        "text": "SALAH"
+    },
+    {
+        "key": "LVL_17",
+        "text": "DILATIH UNTUK"
+    },
+    {
+        "key": "LVL_17A",
+        "text": "MEMBUNUH"
+    },
+    {
+        "key": "LVL_18",
+        "text": "POLA BATAS"
+    },
+    {
+        "key": "LVL_18A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_19",
+        "text": "PEGAWAI KUNCI"
+    },
+    {
+        "key": "LVL_19A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_1A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_2",
+        "text": "PINTU MASUK"
+    },
+    {
+        "key": "LVL_20",
+        "text": "PENGIRIMAN"
+    },
+    {
+        "key": "LVL_20A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_21",
+        "text": "KERAS SEKUAT KUKU"
+    },
+    {
+        "key": "LVL_21A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_22",
+        "text": "GAME PERANG"
+    },
+    {
+        "key": "LVL_22A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_23",
+        "text": "MONYER MEMATA,"
+    },
+    {
+        "key": "LVL_23A",
+        "text": "MONYET MEMBUNUH!"
+    },
+    {
+        "key": "LVL_24",
+        "text": "WAK2NYA MATI"
+    },
+    {
+        "key": "LVL_24A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_2A",
+        "text": "NERAKA"
+    },
+    {
+        "key": "LVL_3",
+        "text": "JALAN KE HANCUR"
+    },
+    {
+        "key": "LVL_3A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_4",
+        "text": "SAMPAH PUTIH"
+    },
+    {
+        "key": "LVL_4A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_5",
+        "text": "BAHAN BAKAR"
+    },
+    {
+        "key": "LVL_5A",
+        "text": "OLEH KEBENCIAN"
+    },
+    {
+        "key": "LVL_6",
+        "text": "DASAR PENYERANGAN"
+    },
+    {
+        "key": "LVL_6A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_7",
+        "text": "DICULIK UNTUK"
+    },
+    {
+        "key": "LVL_7A",
+        "text": "UANG"
+    },
+    {
+        "key": "LVL_8",
+        "text": "PANDANGAN KEBENARAN"
+    },
+    {
+        "key": "LVL_8A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_9",
+        "text": "MABUK MENGEMUDI"
+    },
+    {
+        "key": "LVL_9A",
+        "text": "-"
+    },
+    {
+        "key": "LVL_CLO",
+        "text": "???"
+    },
+    {
+        "key": "M2DB",
+        "text": "-2d"
+    },
+    {
+        "key": "M3DB",
+        "text": "-3d"
+    },
+    {
+        "key": "M4DB",
+        "text": "-4d"
+    },
+    {
+        "key": "M6DB",
+        "text": "-6d"
+    },
+    {
+        "key": "MACHETE",
+        "text": "Parang"
+    },
+    {
+        "key": "MAINM",
+        "text": "MENU UTAMA"
+    },
+    {
+        "key": "MAR",
+        "text": "MAR"
+    },
+    {
+        "key": "MAY",
+        "text": "MEI"
+    },
+    {
+        "key": "MBACK",
+        "text": "KEMBALI"
+    },
+    {
+        "key": "MBASBAT",
+        "text": "Pemukul Bisbol"
+    },
+    {
+        "key": "MC_1ST",
+        "text": "Kartu Memori (8MB) (untuk PlayStation~(R)~2) tidak dimasukkan ke dalam slot KARTU MEMORI 1. Anda dapat memasukkan Kartu Memori (8MB) yang valid (untuk PlayStation~(R)~2) di slot KARTU MEMORI 1 atau tekan tombol ~cross~ untuk melanjutkan tanpa Kartu Memori (8MB) (untuk PlayStation~(R)~2). Manhunt membutuhkan ruang kosong minimal 120 KB (disarankan 600 KB)"
+    },
+    {
+        "key": "MC_CHEA",
+        "text": "Mode cheat aktif - Fitur simpan dinonaktifkan."
+    },
+    {
+        "key": "MC_NOSA",
+        "text": "Melanjutkan tanpa menyimpan."
+    },
+    {
+        "key": "MEAT_C",
+        "text": "Golok Daging"
+    },
+    {
+        "key": "MEMREAD",
+        "text": "Memeriksa data permainan. Jangan lepaskan Kartu Memori (8MB) (untuk PlayStation~(R)~2) di slot KARTU MEMORI 1 atau setel ulang\/matikan konsol."
+    },
+    {
+        "key": "MFWD",
+        "text": "MAJU"
+    },
+    {
+        "key": "MLEFT",
+        "text": "STRAFE KIRI"
+    },
+    {
+        "key": "MOUSENX",
+        "text": "SENSITIVITAS MOUSE X"
+    },
+    {
+        "key": "MOUSENY",
+        "text": "SENSITIVITAS MOUSE Y"
+    },
+    {
+        "key": "MRIGHT",
+        "text": "STRAFE KANAN"
+    },
+    {
+        "key": "MUSVOL",
+        "text": "VOLUME MUSIK"
+    },
+    {
+        "key": "NAILGUN",
+        "text": "Pistol Paku"
+    },
+    {
+        "key": "NAILS",
+        "text": "Kotak Paku (10)"
+    },
+    {
+        "key": "NEWG",
+        "text": "MEMULAI PERMAINAN BARU"
+    },
+    {
+        "key": "NITSTIK",
+        "text": "Tongkat Polisi"
+    },
+    {
+        "key": "NO",
+        "text": "Tidak"
+    },
+    {
+        "key": "NOISEFX",
+        "text": "KEBISINGAN FX"
+    },
+    {
+        "key": "NOMC_DE",
+        "text": "Tidak Ada Kartu Memori (8MB) (untuk PlayStation~(R)~2) Terdeteksi di slot Satu."
+    },
+    {
+        "key": "NOMENU",
+        "text": "Belum ada item menu yang tersedia!"
+    },
+    {
+        "key": "NORMAL",
+        "text": "KERAS"
+    },
+    {
+        "key": "NORMALI",
+        "text": "Tingkat kesulitan yang paling sulit"
+    },
+    {
+        "key": "NOV",
+        "text": "NOV"
+    },
+    {
+        "key": "NO_CDT",
+        "text": "Disc tray terbuka, masukkan disc Manhunt Anda ke dalam tray dan tutup."
+    },
+    {
+        "key": "NO_FILE",
+        "text": "Konfirmasi Simpan? Tekan tombol ~cross~ untuk menyimpan atau tekan tombol ~triangle~ untuk membatalkan."
+    },
+    {
+        "key": "NO_FOR",
+        "text": "Kartu Memori (8MB) (untuk PlayStation~(R)~2) di slot KARTU MEMORI 1 tidak diformat. Tekan tombol ~cross~ untuk melanjutkan."
+    },
+    {
+        "key": "NO_GDIR",
+        "text": "Tidak ada berkas game di Kartu Memori (8MB) (untuk PlayStation~(R)~2) di slot KARTU MEMORI 1. Tekan tombol ~cross~ untuk membuat file game atau tekan tombol ~triangle~ untuk melanjutkan tanpa menyimpan."
+    },
+    {
+        "key": "NO_MHCD",
+        "text": "Tidak ada disk Manhunt yang ditemukan dalam disc tray. Silakan masukkan disk Manhunt Anda."
+    },
+    {
+        "key": "NO_REMV",
+        "text": "Jangan keluarkan Kartu Memori (8MB) (untuk PlayStation~(R)~2) atau matikan PS2"
+    },
+    {
+        "key": "OCT",
+        "text": "OKT"
+    },
+    {
+        "key": "OFF",
+        "text": "MATI"
+    },
+    {
+        "key": "OKC",
+        "text": "OK tombol ~cross~"
+    },
+    {
+        "key": "ON",
+        "text": "NYALA"
+    },
+    {
+        "key": "OVWR_PR",
+        "text": "Manhunt hanya mengizinkan satu penyimpanan yang sedang berlangsung per slot. Jika Anda melanjutkan penyimpanan yang sedang berjalan ini, Anda akan menimpa penyimpanan yang sedang berjalan sebelumnya. Tombol ~cross~ untuk menimpa tombol ~triangle~ untuk membatalkan."
+    },
+    {
+        "key": "OVWR_SA",
+        "text": "Slot ini sudah berisi game yang disimpan sebelumnya. Apakah Anda ingin menimpa game yang sudah tersimpan ini? Enter untuk menimpa Esc untuk membatalkan."
+    },
+    {
+        "key": "P2DB",
+        "text": "+2d"
+    },
+    {
+        "key": "P3DB",
+        "text": "+3d"
+    },
+    {
+        "key": "P4DB",
+        "text": "+4d"
+    },
+    {
+        "key": "P6DB",
+        "text": "+6d"
+    },
+    {
+        "key": "PAINKIL",
+        "text": "Obat Penghilang Rasa Sakit"
+    },
+    {
+        "key": "PAUSE",
+        "text": "JEDA \/ MENU"
+    },
+    {
+        "key": "PBVOL",
+        "text": "EARPHONE"
+    },
+    {
+        "key": "PCLMB",
+        "text": "MOUSE L"
+    },
+    {
+        "key": "PCMMB",
+        "text": "MOUSE M"
+    },
+    {
+        "key": "PCMWDN",
+        "text": "WHEEL DOWN"
+    },
+    {
+        "key": "PCMWUP",
+        "text": "WHEEL UP"
+    },
+    {
+        "key": "PCRMB",
+        "text": "MOUSE R"
+    },
+    {
+        "key": "PCX1MB",
+        "text": "MOUSE X1"
+    },
+    {
+        "key": "PCX2MB",
+        "text": "MOUSE X2"
+    },
+    {
+        "key": "PEEKL",
+        "text": "INTIP KIRI"
+    },
+    {
+        "key": "PEEKR",
+        "text": "INTIP KANAN"
+    },
+    {
+        "key": "PENE",
+        "text": "Bayi"
+    },
+    {
+        "key": "PENN",
+        "text": "Keras"
+    },
+    {
+        "key": "PERSON1",
+        "text": "KAMERA MATA"
+    },
+    {
+        "key": "PICKDUP",
+        "text": "Mengambil :"
+    },
+    {
+        "key": "PIG_SHA",
+        "text": "Pecahan"
+    },
+    {
+        "key": "PIG_WIR",
+        "text": "Kawat"
+    },
+    {
+        "key": "PIST_A",
+        "text": "Peluru Pistol"
+    },
+    {
+        "key": "PLAY",
+        "text": "MAIN"
+    },
+    {
+        "key": "PLA_BAG",
+        "text": "Kantong Plastik"
+    },
+    {
+        "key": "PREVIOU",
+        "text": "Skor Terbaik Sebelumnya"
+    },
+    {
+        "key": "QUESNO",
+        "text": "TIDAK"
+    },
+    {
+        "key": "QUESYES",
+        "text": "YA"
+    },
+    {
+        "key": "QUIT",
+        "text": "KELUAR"
+    },
+    {
+        "key": "QUITPRG",
+        "text": "KELUAR"
+    },
+    {
+        "key": "QUITQUE",
+        "text": "APAKAH ANDA YAKIN INGIN KELUAR DARI PROGRAM INI?"
+    },
+    {
+        "key": "QUITT",
+        "text": "Keluar dari menu tombol ~triangle~"
+    },
+    {
+        "key": "RATIO",
+        "text": "RASIO"
+    },
+    {
+        "key": "READING",
+        "text": "Membaca Disc."
+    },
+    {
+        "key": "RECVOL",
+        "text": "MICROPHONE"
+    },
+    {
+        "key": "RELOAD",
+        "text": "MENGISI ULANG"
+    },
+    {
+        "key": "REMAPC",
+        "text": "PEMETAAN KONTROL"
+    },
+    {
+        "key": "RET_CON",
+        "text": "~cross~ Coba lagi ~circle~ Lanjutkan tanpa menyimpan"
+    },
+    {
+        "key": "REVLVR",
+        "text": "Revolver Enam Penembak"
+    },
+    {
+        "key": "RIFLE_A",
+        "text": "Peluru Senapan (6)"
+    },
+    {
+        "key": "RSETB",
+        "text": "~right~ Atur kecerahan"
+    },
+    {
+        "key": "SAVEC",
+        "text": "Simpan tombol ~cross~"
+    },
+    {
+        "key": "SAVEG",
+        "text": "SIMPAN GAME"
+    },
+    {
+        "key": "SAVEGAM",
+        "text": "SIMPAN"
+    },
+    {
+        "key": "SAVING",
+        "text": "Menyimpan Manhunt."
+    },
+    {
+        "key": "SAVSET",
+        "text": "SIMPAN SETELAN"
+    },
+    {
+        "key": "SAV_FAI",
+        "text": "Kesalahan tidak dikenal saat menyimpan. Tidak dapat menyimpan data Manhunt. Tekan sembarang tombol untuk melanjutkan."
+    },
+    {
+        "key": "SAV_GAM",
+        "text": "Apakah Anda ingin Menyimpan ?~triangle~ YA~square~TIDAK"
+    },
+    {
+        "key": "SAV_SUC",
+        "text": "Game berhasil disimpan."
+    },
+    {
+        "key": "SAWNOFF",
+        "text": "Shotgun Laras Pendek"
+    },
+    {
+        "key": "SCENE",
+        "text": "SCENE"
+    },
+    {
+        "key": "SCESEL",
+        "text": "SELEKSI SCENE"
+    },
+    {
+        "key": "SCRH",
+        "text": "LAYAR H"
+    },
+    {
+        "key": "SCRTOOP",
+        "text": "SKOR UNTUK DIBUKA:"
+    },
+    {
+        "key": "SCRV",
+        "text": "LAYAR V"
+    },
+    {
+        "key": "SELSCE",
+        "text": "PILIH SCENE"
+    },
+    {
+        "key": "SEP",
+        "text": "SEP"
+    },
+    {
+        "key": "SETINGS",
+        "text": "SETELAN"
+    },
+    {
+        "key": "SETT",
+        "text": "SETELAN"
+    },
+    {
+        "key": "SFXVOL",
+        "text": "VOLUME EFK"
+    },
+    {
+        "key": "SG_INPU",
+        "text": "~triangle~ Ya ~circle~ Tidak ~cross~ Kembali"
+    },
+    {
+        "key": "SHELLS",
+        "text": "Peluru Shotgun (8)"
+    },
+    {
+        "key": "SHOTGUN",
+        "text": "Shotgun"
+    },
+    {
+        "key": "SHO_TOR",
+        "text": "Shotgun + Senter"
+    },
+    {
+        "key": "SICKLE",
+        "text": "Sabit"
+    },
+    {
+        "key": "SNDOPT",
+        "text": "SETELAN SUARA"
+    },
+    {
+        "key": "SNEAK",
+        "text": "SENYAP"
+    },
+    {
+        "key": "SNI_RIF",
+        "text": "Senapan (Teropong)"
+    },
+    {
+        "key": "SPIKE",
+        "text": "Paku Kayu"
+    },
+    {
+        "key": "SPKR4",
+        "text": "4 SPKR."
+    },
+    {
+        "key": "SPKR51",
+        "text": "5.1 SPKR."
+    },
+    {
+        "key": "SPKR71",
+        "text": "7.1 SPKR."
+    },
+    {
+        "key": "SPKRST",
+        "text": "STEREO SPKR."
+    },
+    {
+        "key": "SPRINT",
+        "text": "LARI"
+    },
+    {
+        "key": "SSNIRIF",
+        "text": "Senapan (Teropong) + Peredam"
+    },
+    {
+        "key": "STL_PTS",
+        "text": "Poin Gaya"
+    },
+    {
+        "key": "SUBTIT",
+        "text": "SUBTITLES"
+    },
+    {
+        "key": "SWAPINV",
+        "text": "Tekan dan tahan tombol Inventaris untuk menukar item ini dengan"
+    },
+    {
+        "key": "TARGET",
+        "text": "Target"
+    },
+    {
+        "key": "TDARTS",
+        "text": "Panah (6)"
+    },
+    {
+        "key": "THEEND",
+        "text": "AKHIR"
+    },
+    {
+        "key": "TIMBON",
+        "text": "Bonus Waktu"
+    },
+    {
+        "key": "TIME",
+        "text": "Waktu"
+    },
+    {
+        "key": "TOTAL",
+        "text": "Jumlah"
+    },
+    {
+        "key": "TRANQ_R",
+        "text": "Senapan Penenang"
+    },
+    {
+        "key": "UDLRSEL",
+        "text": "~up~ ~down~ ~left~ ~right~ Pilih"
+    },
+    {
+        "key": "UDLSEL",
+        "text": "~up~ ~down~ ~left~ Pilih"
+    },
+    {
+        "key": "UDRSEL",
+        "text": "~up~ ~down~ ~right~ Pilih"
+    },
+    {
+        "key": "UPDS",
+        "text": "~up~ ~down~ Pilih"
+    },
+    {
+        "key": "UQUIT?",
+        "text": "Apakah Anda yakin ingin berhenti?"
+    },
+    {
+        "key": "USE",
+        "text": "PAKAI"
+    },
+    {
+        "key": "UZI",
+        "text": "Pistol Mitraliur"
+    },
+    {
+        "key": "VIBR",
+        "text": "GETARAN"
+    },
+    {
+        "key": "VIDEO",
+        "text": "TAMPILAN"
+    },
+    {
+        "key": "VIDSET",
+        "text": "SETELAN TAMPILAN"
+    },
+    {
+        "key": "WBASBAT",
+        "text": "Pemukul Bisbol"
+    },
+    {
+        "key": "WELLD",
+        "text": "BAGUS"
+    },
+    {
+        "key": "WIDESC",
+        "text": "LAYAR LEBAR"
+    },
+    {
+        "key": "WIRE",
+        "text": "Kawat"
+    },
+    {
+        "key": "YES",
+        "text": "Ya"
+    }
+]
