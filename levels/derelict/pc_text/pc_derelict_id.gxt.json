@@ -1,0 +1,146 @@
+[
+    {
+        "key": "BAT",
+        "text": "Senjata yang lebih besar memang lebih kuat tetapi tidak secepat senjata yang lebih ringan seperti linggis."
+    },
+    {
+        "key": "BLUE",
+        "text": "Senjata satu tangan seperti Alat Pemukul adalah Objek ~blue~Biru ~colour~. Mereka tidak hilang setelah digunakan tetapi mengeluarkan suara selama eksekusi."
+    },
+    {
+        "key": "BREAK",
+        "text": "Jendela khusus seperti ini bisa dihancurkan. Mereka akan membuat pecahan kaca untuk Anda kumpulkan."
+    },
+    {
+        "key": "DER1A1",
+        "text": "Sutradara : Lewati gedung itu di depan untuk sampai ke jalan."
+    },
+    {
+        "key": "DER2A1",
+        "text": "Sutradara : Pemburu itu sedang mengawasi tangga, pancing dia ke bawah dengan menabrak tembok, lalu tunggu di zona aman."
+    },
+    {
+        "key": "DER3A1",
+        "text": "Direktur : Pintu ini digembok. Anda pernah ingin keluar dari sini hidup-hidup, lebih baik Anda menemukan cara untuk menghancurkan gembok itu!"
+    },
+    {
+        "key": "DER4A1",
+        "text": "Direktur: Oke Cash, bagus. Sekarang Ambil linggis dan kembali untuk menghancurkan gembok itu."
+    },
+    {
+        "key": "DER5A1",
+        "text": "Sutradara : Okayyy, buat pertunjukan yang bagus untukku melawan orang berkerudung ini dan itu mungkin bisa membantumu keluar dari sini. Awas orang ini berkelahi kotor."
+    },
+    {
+        "key": "DOR1A1",
+        "text": "Kau baik-baik saja, Cash, kau baik-baik saja. Kami mendapatkan beberapa materi hebat di sini! Lanjutkan!"
+    },
+    {
+        "key": "DOR2A1",
+        "text": "Ada Hood di lantai atas. Buat keributan - pukul sesuatu - itu akan menarik perhatiannya!"
+    },
+    {
+        "key": "DOR3A1",
+        "text": "Kamu harus memakai alat untuk memecahkan gembok itu!"
+    },
+    {
+        "key": "DOR4A1",
+        "text": "Linggis! Itu akan berguna untuk..."
+    },
+    {
+        "key": "DOR4A2",
+        "text": "menghancurkan gembok, misalnya!"
+    },
+    {
+        "key": "DOR5A1",
+        "text": "Oke, inilah yang aku sebut 'persiapan'."
+    },
+    {
+        "key": "DOR5A2",
+        "text": "Orang ini akan berkelahi dengan kotor, tetapi setelah kamu selesai dengannya, aku akan buka pintu keluarnya."
+    },
+    {
+        "key": "GOAL1",
+        "text": "Pergi ke jalan"
+    },
+    {
+        "key": "GOAL2",
+        "text": "Temukan sesuatu untuk membuka ~blue~GEMBOK~colour~"
+    },
+    {
+        "key": "GOAL3",
+        "text": "Gunakan LINGGIS untuk membuka ~blue~GEMBOK~colour~"
+    },
+    {
+        "key": "GOAL4",
+        "text": "Menangkan pertarungan di ruang bawah tanah"
+    },
+    {
+        "key": "GOAL5",
+        "text": "Lewati gedung-gedung untuk menuju ke perpustakaan"
+    },
+    {
+        "key": "GOAL6",
+        "text": "Pergi melewati ruang bawah tanah ke pintu keluar"
+    },
+    {
+        "key": "GRAB",
+        "text": "Tekan tombol Action dan tombol Action2 secara bersamaan untuk bergulat. Atur waktu serangan dengan tepat sehingga Anda dapat melakukan 3 pukulan secara beruntun."
+    },
+    {
+        "key": "GRAB2",
+        "text": "Untuk melepaskan diri dari cekikan pemburu, tekan tombol Action berkali-kali."
+    },
+    {
+        "key": "GRAVE",
+        "text": "Berjalan di atas kerikil akan mengeluarkan bising yang menarik perhatian para pemburu."
+    },
+    {
+        "key": "LOOK",
+        "text": "Tahan tombol First Person untuk melihat lingkungan sekitar. Anda bisa menggunakan fitur ini untuk melihat para pemburu dari jarak jauh."
+    },
+    {
+        "key": "PISS",
+        "text": "Hunter : Aku mau buang air kecil, aku akan keluar di gang."
+    },
+    {
+        "key": "PISS1",
+        "text": "Aku mau kencing. Aku ada di luar."
+    },
+    {
+        "key": "PISS2",
+        "text": "Bung, gue harus kencing."
+    },
+    {
+        "key": "RADAR",
+        "text": "Target ditampilkan dalam bentuk titik pada radar."
+    },
+    {
+        "key": "SMASH",
+        "text": "Pilih linggis, lalu tekan tombol Gunakan untuk membongkar gembok."
+    },
+    {
+        "key": "START0",
+        "text": "Anda dapat menoleh ke belakang dengan menekan tombol Look Back."
+    },
+    {
+        "key": "START1",
+        "text": "~!~"
+    },
+    {
+        "key": "START2",
+        "text": "~!~"
+    },
+    {
+        "key": "SWAP",
+        "text": "Anda dapat memilih masing-masing senjata dengan menggunakan empat tombol Inventory Item, atau menelusuri senjata-senjata tersebut dengan tombol Inventory."
+    },
+    {
+        "key": "TRIAN",
+        "text": "Linggis dapat digunakan untuk membongkar gembok dan benda terkunci lainnya."
+    },
+    {
+        "key": "WBAT",
+        "text": "Senjata besar seperti Pemukul ini adalah item ~red~MERAH ~colour~. Senjata ini lebih kuat, tetapi tidak secepat senjata yang lebih ringan."
+    }
+]
