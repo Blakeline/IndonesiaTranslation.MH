@@ -1809,11 +1809,11 @@
     },
     {
         "key": "LVL_14",
-        "text": "DIBAGI MEREKA JATUH"
+        "text": "DIBAGI MEREKA"
     },
     {
         "key": "LVL_14A",
-        "text": "-"
+        "text": "JATUH"
     },
     {
         "key": "LVL_15",
@@ -1909,7 +1909,7 @@
     },
     {
         "key": "LVL_3",
-        "text": "JALAN KE HANCUR"
+        "text": "JALAN HANCUR"
     },
     {
         "key": "LVL_3A",
@@ -1933,11 +1933,11 @@
     },
     {
         "key": "LVL_6",
-        "text": "DASAR PENYERANGAN"
+        "text": "DASAR"
     },
     {
         "key": "LVL_6A",
-        "text": "-"
+        "text": "PENYERANGAN"
     },
     {
         "key": "LVL_7",
@@ -1949,11 +1949,11 @@
     },
     {
         "key": "LVL_8",
-        "text": "PANDANGAN KEBENARAN"
+        "text": "PANDANGAN"
     },
     {
         "key": "LVL_8A",
-        "text": "-"
+        "text": "KEBENARAN"
     },
     {
         "key": "LVL_9",
@@ -2089,7 +2089,7 @@
     },
     {
         "key": "NORMALI",
-        "text": "Tingkat kesulitan yang paling sulit"
+        "text": "Level kesulitan paling sulit"
     },
     {
         "key": "NOV",
