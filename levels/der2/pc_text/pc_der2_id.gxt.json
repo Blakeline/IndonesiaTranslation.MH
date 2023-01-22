@@ -1,0 +1,86 @@
+[
+    {
+        "key": "BRICK",
+        "text": "Batu bata dan semua bujukan lainnya ~yellow~kuning ~color~item dan dapat dilemparkan untuk membuat suara dan menarik pemburu."
+    },
+    {
+        "key": "BRICK1",
+        "text": "Untuk melempar batu bata, tahan tombol Action. Semakin lama Anda menahan, semakin jauh objek akan dilemparkan. Saat Anda melepaskan tombol Action, Cash akan melempar objek."
+    },
+    {
+        "key": "BRICK2",
+        "text": "Barang ~yellow~Bujukan ~color~tidak dapat digunakan untuk mengeksekusi pemburu."
+    },
+    {
+        "key": "DOR6A1",
+        "text": "Kamu hebat, Nak. Kukasih nilai A."
+    },
+    {
+        "key": "DOR6A2",
+        "text": "Sekarang cari jalan ke pintu gudang."
+    },
+    {
+        "key": "EXIT",
+        "text": "Direktur: Anda melakukan uang tunai yang sangat baik! Ini hampir berakhir. Ini adalah pintu masuk ke ruang bawah tanah menemukannya."
+    },
+    {
+        "key": "GOAL1",
+        "text": "Cari jalan ke perpustakaan terlantar"
+    },
+    {
+        "key": "GOAL2",
+        "text": "Cari jalan ke gudang perpustakaan"
+    },
+    {
+        "key": "GOAL3",
+        "text": "Jalan ke pintu keluar dari belakang"
+    },
+    {
+        "key": "GOAL4",
+        "text": "Menangkan pertarungan di gudang"
+    },
+    {
+        "key": "GOAL5",
+        "text": "Pergi melalui bangunan sampai ke perpustakaan"
+    },
+    {
+        "key": "GOAL6",
+        "text": "Pergi ke pintu keluar"
+    },
+    {
+        "key": "JUMP",
+        "text": "Ketika Anda jatuh dari ketinggian, Anda akan membuat suara yang menarik pemburu."
+    },
+    {
+        "key": "MPG1",
+        "text": "Bersiaplah, tim, dia datang..."
+    },
+    {
+        "key": "MPG2",
+        "text": "Baik, keluarin dia dari sini."
+    },
+    {
+        "key": "MPG3",
+        "text": "Aduh!"
+    },
+    {
+        "key": "TRASH",
+        "text": "Tekan tombol Use untuk menendang tempat sampah ini dan menggunakannya sebagai umpan bagi para pemburu."
+    },
+    {
+        "key": "WALL",
+        "text": "Untuk senderan ke tembok, posisikan Cash terhadapnya terus tekan tombol Use."
+    },
+    {
+        "key": "WALL1",
+        "text": "Kemudian tekan ~left~ atau ~right~ pada keyboard untuk menggeser ke tembok. Raih sudut dan terus tekan tombol ke arah yang sama untuk bersandar dan mengintip."
+    },
+    {
+        "key": "WALL2",
+        "text": "You can hit the wall to lure hunters by pressing the Action button. To detach from the wall, press the Use button or Down on the keyboard."
+    },
+    {
+        "key": "WBAT",
+        "text": "Big weapons like this Baseball Bat are ~red~RED ~colour~items. They are stronger, but not as fast as the lighter weapons."
+    }
+]
