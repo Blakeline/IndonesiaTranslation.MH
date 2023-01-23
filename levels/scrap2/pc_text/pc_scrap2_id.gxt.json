@@ -1,0 +1,190 @@
+[
+    {
+        "key": "BLOCK1",
+        "text": "Tutupin jalan keluarnya! Sekarang!"
+    },
+    {
+        "key": "BLOCK2",
+        "text": "Jangan biarin dia keluar dari sini! Cepat, cepat!"
+    },
+    {
+        "key": "CRANE",
+        "text": "Untuk memutar derek, gunakan keyboard atau mouse. Untuk mengaktifkan magnet, tekan tombol Action."
+    },
+    {
+        "key": "CRANE1",
+        "text": "Anda bisa keluar dari derek dengan menekan tombol Use."
+    },
+    {
+        "key": "CRANE2",
+        "text": "Hati-hati karena para pemburu masih bisa menembak Anda saat berada di dalam derek."
+    },
+    {
+        "key": "DELAY",
+        "text": "Hunter: Sekring itu lagi, apakah aku terlihat seperti tukang listrik."
+    },
+    {
+        "key": "DONE",
+        "text": "Direktur: Nice Going Cash, Scout Out Area, gerbang terbuka."
+    },
+    {
+        "key": "ENTER",
+        "text": "Untuk memasuki derek jalan di sampingnya terus tekan tombol Use."
+    },
+    {
+        "key": "ENTRY",
+        "text": "Hunter: Blokir semua pintu keluar, satu -satunya jalan keluar di sini adalah di dalam kantong tubuh."
+    },
+    {
+        "key": "FUEL",
+        "text": "Ambil bensin terus naik tangga lalu tekan tombol Use untuk mengisi bahan bakar derek."
+    },
+    {
+        "key": "FUSE1",
+        "text": "Apa - ? Berapa kali sekring bisa meledak?!"
+    },
+    {
+        "key": "FUSE2",
+        "text": "Aduh, bagus banget - sekringnya kebakar lagi!"
+    },
+    {
+        "key": "GAS",
+        "text": "Ambil bensin dengan tombol Use terus bawa balik ke derek."
+    },
+    {
+        "key": "GASO",
+        "text": "Direktur: A Busted Up Crane, dapat menggunakan beberapa, jika Anda bisa membuatnya bekerja."
+    },
+    {
+        "key": "GETTH",
+        "text": "Hunter: Hei kamu!Keluar dari crane itu."
+    },
+    {
+        "key": "GOAL1",
+        "text": "Bunuh pemburu di sekitar buat membuka ~blue~gerbang~colour~"
+    },
+    {
+        "key": "GOAL2",
+        "text": "Temukan cara untuk pancing pemburu keluar"
+    },
+    {
+        "key": "GOAL3",
+        "text": "Cari bensin untuk ngisi bahan bakar derek"
+    },
+    {
+        "key": "GOAL4",
+        "text": "Balik dengan bensin untuk mengisi ulang bahan bakar derek"
+    },
+    {
+        "key": "GOAL5",
+        "text": "Gunakan derek untuk ngebuka jalan tertutup"
+    },
+    {
+        "key": "GOAL5A",
+        "text": "Find the crusher machine"
+    },
+    {
+        "key": "GOAL6",
+        "text": "Hunt down the five hunters to open the ~blue~gate"
+    },
+    {
+        "key": "GOAL7",
+        "text": "Use the crane to unblock the path"
+    },
+    {
+        "key": "GOAL8",
+        "text": "Find the double doors to get to the exit"
+    },
+    {
+        "key": "GOAL9",
+        "text": "Find a way to the hut"
+    },
+    {
+        "key": "GREEN",
+        "text": "Your next objective is shown on the radar as a green dot."
+    },
+    {
+        "key": "HUT",
+        "text": "Director : You need to find a way past this gate, Cash."
+    },
+    {
+        "key": "HUT1",
+        "text": "Director : If you could lure this fat fucker out somehow..."
+    },
+    {
+        "key": "LETTER1",
+        "text": "abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789\"$,.'-?!!SDBF"
+    },
+    {
+        "key": "NUMBER1",
+        "text": "0123456789"
+    },
+    {
+        "key": "ON",
+        "text": "You need some gas to activate this crane."
+    },
+    {
+        "key": "OPEN",
+        "text": "Director : Nice going Cash!, The door is open."
+    },
+    {
+        "key": "OUT",
+        "text": "Find some gas to get the crane working."
+    },
+    {
+        "key": "SKN1A1",
+        "text": "These Skinz are boring me - dumb-assed supremacist bastards."
+    },
+    {
+        "key": "SKN1A2",
+        "text": "Always blaming others for their inadequacies."
+    },
+    {
+        "key": "SKN1A3",
+        "text": "Butcher them, Cash. Cut'em up, beat 'em down and choke the fucking life out of them!"
+    },
+    {
+        "key": "SKN2A1",
+        "text": "Oh, man, that one was good! The gate's open."
+    },
+    {
+        "key": "SKN2A2",
+        "text": "Go on, get out of here!"
+    },
+    {
+        "key": "SKN3A1",
+        "text": "This shit seems content to watch porn and avoid all the action! If he won't switch it off himself,"
+    },
+    {
+        "key": "SKN3A2",
+        "text": "we'll have to do it for him!"
+    },
+    {
+        "key": "SKN4A1",
+        "text": "A crane. Well what d'ya reckon, Cash?"
+    },
+    {
+        "key": "SKN5A1",
+        "text": "Alright Cash, Grab the blade you're gonna need it to get out of here."
+    },
+    {
+        "key": "SKN6A1",
+        "text": "You'll need to find a way through the next gate."
+    },
+    {
+        "key": "SKN7A1",
+        "text": "Find a way to get that fat bastard out into the open!"
+    },
+    {
+        "key": "SKN8A1",
+        "text": "Excellent - Death by heavy domestic appliance!"
+    },
+    {
+        "key": "SQUASH",
+        "text": "You can squash hunters by dropping the fridge on them using the Action button."
+    },
+    {
+        "key": "START",
+        "text": "Director : Clean the area of hunters, then make your way to the gate."
+    }
+]
