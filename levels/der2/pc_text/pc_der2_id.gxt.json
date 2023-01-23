@@ -1,7 +1,7 @@
 [
     {
         "key": "BRICK",
-        "text": "Batu bata dan semua bujukan lainnya ~yellow~kuning ~color~item dan dapat dilemparkan untuk membuat suara dan menarik pemburu."
+        "text": "Batu bata dan semua bujukan lainnya ~yellow~kuning ~colour~item dan dapat dilemparkan untuk membuat suara dan menarik pemburu."
     },
     {
         "key": "BRICK1",
@@ -9,7 +9,7 @@
     },
     {
         "key": "BRICK2",
-        "text": "Barang ~yellow~Bujukan ~color~tidak dapat digunakan untuk mengeksekusi pemburu."
+        "text": "Barang ~yellow~Bujukan ~colour~tidak dapat digunakan untuk mengeksekusi pemburu."
     },
     {
         "key": "DOR6A1",
@@ -81,6 +81,6 @@
     },
     {
         "key": "WBAT",
-        "text": "Senjata besar seperti Pemukul Bisbol ini berwarna ~red~merah ~color~. Mereka lebih kuat, tetapi tidak secepat senjata ringan."
+        "text": "Senjata besar seperti Pemukul Bisbol ini berwarna ~red~merah ~colour~. Mereka lebih kuat, tetapi tidak secepat senjata ringan."
     }
 ]

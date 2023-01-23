@@ -45,7 +45,7 @@
     },
     {
         "key": "GOAL2",
-        "text": "Cari suatu buat memotong ~blue~tali ~color~di gerbang"
+        "text": "Cari suatu buat memotong ~blue~tali ~colour~di gerbang"
     },
     {
         "key": "GOAL3",
@@ -53,7 +53,7 @@
     },
     {
         "key": "GOAL4",
-        "text": "Cari dan tarik tuas buat buka~color~ gerbang~color~"
+        "text": "Cari dan tarik tuas buat buka~colour~ gerbang~colour~"
     },
     {
         "key": "GOAL5",
