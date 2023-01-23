@@ -985,7 +985,7 @@
     },
     {
         "key": "DEFQUE",
-        "text": "ARE YOU SURE YOU WANT TO RESTORE ALL SETTINGS TO THE DEFAULT?"
+        "text": "APAKAH KAMU YAKIN INGIN MENGATUR ULANG SEMUA SETELAN?"
     },
     {
         "key": "DEFSET",
@@ -1153,7 +1153,7 @@
     },
     {
         "key": "HUN_KIL",
-        "text": "Hunters Killed"
+        "text": "Pemburu Dibunuh"
     },
     {
         "key": "IBACK",
@@ -1889,7 +1889,7 @@
     },
     {
         "key": "LVL_23",
-        "text": "MONYER MEMATA,"
+        "text": "MONYET MEMATA,"
     },
     {
         "key": "LVL_23A",
@@ -2061,7 +2061,7 @@
     },
     {
         "key": "NEWG",
-        "text": "MEMULAI PERMAINAN BARU"
+        "text": "MULAI PERMAINAN BARU"
     },
     {
         "key": "NITSTIK",
@@ -2469,7 +2469,7 @@
     },
     {
         "key": "TIMBON",
-        "text": "Bonus Waktu"
+        "text": "Waktu Bonus"
     },
     {
         "key": "TIME",
