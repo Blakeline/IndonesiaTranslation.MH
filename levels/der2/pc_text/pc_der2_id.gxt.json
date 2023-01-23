@@ -57,7 +57,7 @@
     },
     {
         "key": "MPG2",
-        "text": "Baik, keluarin dia dari sini."
+        "text": "Oke, keluarin dia dari sini."
     },
     {
         "key": "MPG3",
@@ -73,14 +73,14 @@
     },
     {
         "key": "WALL1",
-        "text": "Kemudian tekan ~left~ atau ~right~ pada keyboard untuk menggeser ke tembok. Raih sudut dan terus tekan tombol ke arah yang sama untuk bersandar dan mengintip."
+        "text": "Kemudian tekan ~left~ atau ~right~ pada keyboard untuk menggeser ke tembok. Geser ke pinggir terus tekan tombol ke arah yang sama untuk mengintip."
     },
     {
         "key": "WALL2",
-        "text": "You can hit the wall to lure hunters by pressing the Action button. To detach from the wall, press the Use button or Down on the keyboard."
+        "text": "Anda bisa mengetok tembok untuk memancing pemburu dengan menekan tombol Action. Untuk lepas dari tembok, tekan tombol Use atau ~down~ pada keyboard."
     },
     {
         "key": "WBAT",
-        "text": "Big weapons like this Baseball Bat are ~red~RED ~colour~items. They are stronger, but not as fast as the lighter weapons."
+        "text": "Senjata besar seperti Pemukul Bisbol ini berwarna ~red~merah ~color~. Mereka lebih kuat, tetapi tidak secepat senjata ringan."
     }
 ]
