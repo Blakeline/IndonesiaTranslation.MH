@@ -1,0 +1,126 @@
+[
+    {
+        "key": "CHECK1",
+        "text": "Bunuh dua pemburu untuk membuka pintu ini."
+    },
+    {
+        "key": "CHECK2",
+        "text": "Bunuh pemburu terakhir untuk membuka pintu ini."
+    },
+    {
+        "key": "GOAL1",
+        "text": "Cari senjata terus pergi ke pintu yang ~blue~terikat tali~colour~"
+    },
+    {
+        "key": "GOAL2",
+        "text": "Pergi melewati gerbang ~blue~gembok~colour~"
+    },
+    {
+        "key": "GOAL3",
+        "text": "Find a way into the ~blue~restaurant ~colour~at the top of the zoo"
+    },
+    {
+        "key": "GOAL4",
+        "text": "Go out the back of the restaurant to the ~blue~exit"
+    },
+    {
+        "key": "GOAL5",
+        "text": "Make your way to the zoo pens"
+    },
+    {
+        "key": "INTRO",
+        "text": "Director : These pricks will kill you in a second if you're unarmed. Find an Executor and steal his weapon."
+    },
+    {
+        "key": "MPG1",
+        "text": "Give him the fucking food, enough bullshitting."
+    },
+    {
+        "key": "MPG2",
+        "text": "Give him the fucking food!"
+    },
+    {
+        "key": "MPG3",
+        "text": "Ah fuck! This guy fucking stinks!"
+    },
+    {
+        "key": "MPG4",
+        "text": "Just give him the fucking food and let's get the hell out of here."
+    },
+    {
+        "key": "MPG5",
+        "text": "Fall in and listen up!"
+    },
+    {
+        "key": "MPG6",
+        "text": "At ease. It's time to get out there and nail that bastard!"
+    },
+    {
+        "key": "MPG7",
+        "text": "WARDOGS - YEEAH!"
+    },
+    {
+        "key": "MPG8",
+        "text": "Ha Ha!"
+    },
+    {
+        "key": "OLD1",
+        "text": "Jesus Christ! Come on, give this stinking guy his food."
+    },
+    {
+        "key": "OLD2",
+        "text": "This ain't time for games."
+    },
+    {
+        "key": "OLD3",
+        "text": "Alright!"
+    },
+    {
+        "key": "OLD4",
+        "text": "Just give it to him."
+    },
+    {
+        "key": "PAD",
+        "text": "Director : Find these doors and get past them, you'll need to find a crowbar first!!"
+    },
+    {
+        "key": "PAD1",
+        "text": "Director : Where could that crowbar be, maybe the bear took it."
+    },
+    {
+        "key": "RIFLE",
+        "text": "Hold down the Action2 button to use the scope. You can zoom in and out using the movement buttons on the keyboard."
+    },
+    {
+        "key": "SHOT",
+        "text": "You've been tranquilized, while in this state you won't be able to use the crowbar, wait until the effects have worn off."
+    },
+    {
+        "key": "SOU1A1",
+        "text": "These pricks call themselves the Wardogs - real dickless gung-ho losers"
+    },
+    {
+        "key": "SOU1A2",
+        "text": "You're gonna have to tool up if you're gonna make it - take it slow and see what you can take from these guys."
+    },
+    {
+        "key": "SOU2A1",
+        "text": "There are some doors over the otherside of this location that will get your sorry hide out of here."
+    },
+    {
+        "key": "SOU3A1",
+        "text": "Where did I hide that crowbar? Think, think, think!"
+    },
+    {
+        "key": "SOU3A2",
+        "text": "Sorry Cash, this is a grizzly situation..."
+    },
+    {
+        "key": "SOU4A1",
+        "text": "Oh hell, that wasn't in the script! Honest Cash, they're making it up as they're going along, I swear!"
+    },
+    {
+        "key": "TOP",
+        "text": "Director : Lets see if you can figure this one out. Be careful Cash, some of these wardogs have tranquilizer rifles."
+    }
+]
